@@ -1,6 +1,6 @@
 /*
-• @David-Chian
-- https://github.com/David-Chian
+• felix Manuel 
+- Creditos a quien lo merece
 */
 
 import fetch from 'node-fetch';
