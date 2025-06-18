@@ -21,14 +21,14 @@ Este Bot es un super bot de whatsapp que te ofrese variedad de cosas muy funcion
 
 ---
 
-## **`🩵 Sky Ultra Plus 🩵`**
-<a href="https://dash.skyultraplus.com/"><img src="https://files.catbox.moe/62pqnw.jpg" height="100px"></a>
+## **`🩵 AKIRAX HOST🩵`**
+<a href="https://home.akirax.net"><img src="https://qu.ax/bZYxO.jpg" height="100px"></a>
 
 <details>
  <summary><b>:paperclip: Enlaces Importantes</b></summary>
 
-- **Dash:** [`Aquí`](https://dash.skyultraplus.com)
-- **Panel:** [`Aquí`](https://panel.skyultraplus.com)
+- **Dash:** [`Aquí`](https://home.akirax.net)
+- **Panel:** [`Aquí`](https://console.akirax.net)
 
 </details>
 
