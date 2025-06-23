@@ -33,7 +33,7 @@ const vid = ['https://files.catbox.moe/falp8a.mp4', 'https://files.catbox.moe/fa
 let menu = `¡Hola! *${taguser}* soy *Makima ( ${(conn.user.jid == global.conn.user.jid ? 'OficialBot' : 'Prem-Bot')} ).* 
 
 ╭━━I N F O-B O T━━
-┃Creador: 𓆩‌۫᷼ ִֶָღܾ݉͢ғ꯭ᴇ꯭፝ℓɪ꯭ͨא𓆪
+┃Creadora: ༘͜͡❃➳𓆩ޫ͢黒𓆪𑪖 𝐑o͟𝐬𝐥𝐲𝐧𔗂꯭⸙͎
 ┃Tiempo activo: ${uptime}
 ┃Baileys: Multi device.
 ┃Base: Oficial.
@@ -42,11 +42,9 @@ let menu = `¡Hola! *${taguser}* soy *Makima ( ${(conn.user.jid == global.conn.u
 
 .       ╭ֹ┈ ⵿❀⵿ ┈╮ ㅤ
  ╭ֹ┈ ⵿❀⵿ ┈╮INFO-USER
-┃┈➤ Creador: Félix 
 ┃┈➤ Cliente: ${nombre}
 ┃┈➤ Rango: ${role}
 ┃┈➤ Nivel: ${level}
-┃┈➤ País: ${global.userNationality}
 ╰━━━━━━━━━━━━━
 
 ➪ 𝗟𝗜𝗦𝗧𝗔 
