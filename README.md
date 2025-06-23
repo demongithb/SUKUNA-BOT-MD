@@ -30,7 +30,6 @@ Este Bot es un super bot de whatsapp que te ofrese variedad de cosas muy funcion
 - **Dash:** [`Aquí`](https://home.akirax.net)
 - **Panel:** [`Aquí`](https://console.akirax.net)
 
-<details>
 
 ---
 
