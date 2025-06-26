@@ -18,7 +18,7 @@ global.confirmCode = ''
 
 global.owner = [
   ['149963665342644', '🩵CREADOR🩵', true],
-  ['18294868853', 'DIONEIBI-RIP', true],
+  ['200141197844495', 'DIONEIBI-RIP', true],
   ['5216633900512', 'BrayanOfC', true],
   ['50557333744', 'JonathanG', true],
   ['56940429343', 'Abraham Ch', true], 
